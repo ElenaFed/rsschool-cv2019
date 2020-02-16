@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16;}
+.contacts {
+    margin: 0 auto;
+    width: 1024px;
+}
+header img {
+    width: 300px;
+    border-radius: 8px;}
